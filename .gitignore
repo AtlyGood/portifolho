@@ -23,6 +23,7 @@ __pycache__/
 # Ignorar arquivos de ambiente
 .env
 *.env.local
+meu_ambiente_kivy/
 
 # Ignorar arquivos de build/dist
 dist/
