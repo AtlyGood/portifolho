@@ -1,0 +1,43 @@
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de IDE
+.idea/
+.vscode/
+*.swp
+
+# Ignorar dependências
+node_modules/
+vendor/
+__pycache__/
+
+# Ignorar arquivos gerados
+*.log
+*.tmp
+*.bak
+*.class
+*.exe
+*.dll
+
+# Ignorar arquivos de ambiente
+.env
+*.env.local
+
+# Ignorar arquivos de build/dist
+dist/
+build/
+out/
+*.min.js
+*.min.css
+
+# Ignorar ambientes virtuais Python
+venv/
+env/
+.venv/
+*.venv/
+
+# Ignorar arquivos específicos do projeto
+**/temp/
+**/cache/
+**/uploads/
